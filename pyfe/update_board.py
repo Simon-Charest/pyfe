@@ -1,6 +1,6 @@
 
 from numpy import int32, ndarray, where, zeros_like
-from pyfe.count_neighbors import count_neighbors
+from count_neighbors import count_neighbors
 
 
 def update_board(board: ndarray) -> ndarray:

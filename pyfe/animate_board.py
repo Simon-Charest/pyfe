@@ -1,7 +1,7 @@
 from cv2 import imshow, rectangle, waitKey
 from numpy import ndarray, uint8, zeros
-from pyfe.constant import *
-from pyfe.update_board import update_board
+from constant import *
+from update_board import update_board
 
 
 def animate_board(board: ndarray):

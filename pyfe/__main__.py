@@ -1,8 +1,8 @@
 from cv2 import destroyAllWindows
 from numpy import ndarray
-from pyfe.animate_board import animate_board
-from pyfe.constant import *
-from pyfe.initialize_board import initialize_board
+from animate_board import animate_board
+from constant import *
+from initialize_board import initialize_board
 
 
 def main() -> None:
@@ -14,3 +14,7 @@ def main() -> None:
 
     # Quit game
     destroyAllWindows()
+
+
+if __name__ == "__main__":
+    main()

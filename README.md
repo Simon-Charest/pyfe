@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 9. Run solution:
 ```
-python .
+python pyfe
 ```
 
 ## License
