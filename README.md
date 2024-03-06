@@ -1,6 +1,8 @@
 # Pyfe
 Conway's Game of Life in Python.
 
+![Conway's Game of Life in Python](pyfe.png)
+
 ## Built With
 
 ### Programming Language
