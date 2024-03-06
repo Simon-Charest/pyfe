@@ -3,9 +3,12 @@ Conway's Game of Life in Python.
 
 ## Built With
 
-### Backend
+### Programming Language
 - [Python](https://www.python.org);
-- [Pygame](https://www.pygame.org);
+
+### Libraries
+- [NumPy](https://numpy.org);
+- [OpenCV](https://opencv.org);
 
 ### Virtual Environment
 - [venv](https://docs.python.org/library/venv);
@@ -52,10 +55,6 @@ pip install -r requirements.txt
 9. Run solution:
 ```
 python .
-```
-10. Run tests:
-```
-pytest
 ```
 
 ## License
