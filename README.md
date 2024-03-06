@@ -1,7 +1,7 @@
 # Pyfe
-Conway's Game of Life in Python.
+The Conway's Game of Life, in Python.
 
-![Conway's Game of Life in Python](pyfe.png)
+![Conway's Game of Life](pyfe.png)
 
 ## Built With
 
@@ -65,3 +65,6 @@ python pyfe
 ## Contact
 - GitHub: [Pyfe](https://github.com/Simon-Charest/pyfe);
 - Email: [Simon Charest](mailto:simoncharest@gmail.com).
+
+## Acknowledgements
+- [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
